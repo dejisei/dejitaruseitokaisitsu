@@ -5,7 +5,7 @@
   // ニュース一覧
   const newsData = [
     {
-      text: "6月30日　復旧しました！！！",
+      text: "6月28日　復旧しました！！！",
       deleted: false
     },
     {
@@ -13,7 +13,7 @@
       deleted: true
     },
     {
-      text: "6月30日　復旧しました！！！",
+      text: "6月28日　復旧しました！！！",
       deleted: false
     },
     {
